@@ -16,7 +16,7 @@ A privacy-preserving lottery system using Zama's Fully Homomorphic Encryption (F
 ## 🏗️ Project Structure
 
 ```
-zama3/
+zama/
 ├── example/                    # Example contracts
 │   ├── contracts/
 │   │   ├── FHE.sol            # FHE library
